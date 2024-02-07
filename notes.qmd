@@ -1,0 +1,19 @@
+UWA Style proforma from [https://www.postgraduate.uwa.edu.au/students/thesis/style]
+File is [https://www.postgraduate.uwa.edu.au/__data/assets/word_doc/0008/2930291/GRS_ThesisFrontPageProforma.docx]
+
+Pages are
+i. Title Page
+ii.  Declaration
+iii. Acknowledgements
+iv. Authorship Declaration
+
+/endfrontmatter
+
+Thesis proper start after that
+
+/beginbody
+
+/endbody
+
+/beginbackmatter
+/endbackmatter
